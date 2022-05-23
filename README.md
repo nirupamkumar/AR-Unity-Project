@@ -3,11 +3,11 @@
 
 **Augmented Relaity University Project: Idea here is to add controls to the vechicles once they appear on the markers.**
 
-> AR SDK (Vuforia Engine)
-> Git LFS (large file storage) implementation. 
 
 ###### Features
-- Three image markers to track three Different vehicle models.
+
+- AR SDK : (Vuforia Engine).
+- Git LFS (large file storage) implementation. 
 
 
 ###### Input (to control the vechicles)
