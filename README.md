@@ -1,2 +1,5 @@
 # AR-Unity-Project
-Unity Augmented application project
+University Project
+
+## **Work in Progress**
+> Git LFS
