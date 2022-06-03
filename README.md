@@ -1,5 +1,4 @@
 # AR-Unity-Project 
-(** Work In Progress**)
 
 **Augmented Relaity University Project: Idea here is to add controls to the vechicles once they appear on the markers.**
 
